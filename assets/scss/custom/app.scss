@@ -1,0 +1,75 @@
+/* Typography */
+
+html, body, h2, h3, h4, h5, p {
+  font-family: 'Poiret One', cursive;
+  color: white;
+}
+
+h1 {
+  font-family: 'Poiret One', cursive;
+  font-weight: normal;
+}
+
+h6 {
+  font-family: 'Poiret One', cursive;
+  font-weight: normal;
+}
+
+/* Background */
+
+html, body, div {
+  background-color: #0a0a0a;
+}
+
+/* Logo */
+
+.logo {
+  margin-bottom: 2em;
+}
+
+/* Navigation */
+
+.menu {
+  margin-bottom: 5em;
+}
+
+.menu li a {
+  color: white;
+}
+
+.menu li a:hover {
+  font-weight: bold;
+}
+
+/* Main body */
+
+.image-placeholder {
+  max-width: 300px;
+/*  max-height: 300px;*/
+
+  min-width: 25vw;
+  height: 150px;
+}
+
+.image-circle {
+  min-width: 50%;
+  min-height: 100%;
+
+  margin: 0 auto;
+
+  background-image: url("../images/0-bird1.png");
+  background-repeat: no-repeat;
+}
+
+.image-circle:hover {
+  background-image: url("../images/0-bird2.png");
+  background-repeat: no-repeat;
+}
+
+
+/* Footer */
+
+.footer {
+  text-align: center;
+  margin-top: 2em;
+}
