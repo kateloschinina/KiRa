@@ -60,6 +60,17 @@
 				</div>
 			</nav>
 		</div>
+		<div class="menu-centered">
+      <ul class="menu">
+        <li><a href="#">MOViNG iMAGE</a></li>
+        <li>&#9679;</li>
+        <li><a href="#">iNSTALLATiON</a></li>
+        <li>&#9679;</li>
+        <li><a href="#">PERFORMANCE</a></li>
+        <li>&#9679;</li>
+        <li><a href="#">STiLL</a></li>
+      </ul>
+    </div>
 	</header>
 
 	<section class="container">
