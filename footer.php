@@ -16,9 +16,7 @@
 				<?php do_action( 'foundationpress_before_footer' ); ?>
 				<?php dynamic_sidebar( 'footer-widgets' ); ?>
 				<?php do_action( 'foundationpress_after_footer' ); ?>
-				<div class="row footer">
-		      <h6>All rights reserved. &copy; KiRa, 2017.</h6>
-		    </div>
+		    <h6>All rights reserved. &copy; KiRa, 2017.</h6>
 			</footer>
 		</div>
 
